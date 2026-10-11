@@ -1,0 +1,33 @@
+{
+  "name": "nepal-lpg-cylinders",
+  "version": "1.0.0",
+  "description": "Verified Nepali LPG cylinders dataset & Danish IGT gas regulator compatibility specifications (NS 533 standards)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "igt-gas-regulator",
+    "gas-regulator-nepal",
+    "nepal-lpg",
+    "nepal-gas",
+    "lpg-cylinders-nepal",
+    "ns-533",
+    "auto-cut-gas-regulator",
+    "gas-safety-nepal"
+  ],
+  "author": {
+    "name": "IGT Nepal",
+    "email": "im@rcdahal.com.np",
+    "url": "https://igtnepal.com"
+  },
+  "homepage": "https://igtnepal.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmcdahal/igtnepal.git"
+  },
+  "bugs": {
+    "url": "https://igtnepal.com/replacement"
+  },
+  "license": "MIT"
+}
