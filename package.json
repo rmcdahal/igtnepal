@@ -4,6 +4,7 @@
   "description": "Verified Nepali LPG cylinders dataset & Danish IGT gas regulator compatibility specifications (NS 533 standards)",
   "main": "index.js",
   "scripts": {
+    "build": "echo 'Static docs ready'",
     "test": "node test.js"
   },
   "keywords": [

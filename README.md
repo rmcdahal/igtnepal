@@ -6,7 +6,9 @@
 [![Nepal LPG Cylinders](https://img.shields.io/badge/Nepal_LPG_Brands-35+_Supported_(NS_533)-e11d48?style=flat)](https://igtnepal.com/cylinder-compatibility)
 [![IGT Gas Regulator Documentation](https://img.shields.io/badge/Docs_Portal-GitHub_Pages-6366f1?style=flat&logo=github)](https://rmcdahal.github.io/igtnepal/)
 [![Cloudflare Pages Mirror](https://img.shields.io/badge/Cloudflare_Pages-igt--gas--regulator.pages.dev-f38020?style=flat&logo=cloudflare)](https://igt-gas-regulator.pages.dev/)
+[![Netlify Mirror](https://img.shields.io/badge/Netlify-igtnepal.netlify.app-00C7B7?style=flat&logo=netlify)](https://igtnepal.netlify.app/)
 [![GitLab Mirror](https://img.shields.io/badge/GitLab-craftalaya%2Figtnepal-fc6d26?style=flat&logo=gitlab)](https://gitlab.com/craftalaya/igtnepal)
+[![NPM Package](https://img.shields.io/npm/v/nepal-lpg-cylinders?color=cb3837&logo=npm)](https://www.npmjs.com/package/nepal-lpg-cylinders)
 [![License](https://img.shields.io/badge/License-MIT-slate?style=flat)](LICENSE)
 
 An open technical specification, installation guide, and LPG cylinder compatibility reference for the **Danish IGT Gas Regulator (Integrated Gas Technologies)** in Nepal.
@@ -14,7 +16,9 @@ An open technical specification, installation guide, and LPG cylinder compatibil
 - 🌐 Official Portal: **[IGT Gas Regulator Nepal (igtnepal.com)](https://igtnepal.com)**
 - 📖 Documentation Hub: **[https://rmcdahal.github.io/igtnepal/](https://rmcdahal.github.io/igtnepal/)**
 - ⚡ Cloudflare Mirror: **[https://igt-gas-regulator.pages.dev/](https://igt-gas-regulator.pages.dev/)** &bull; **[https://igtnepal.pages.dev/](https://igtnepal.pages.dev/)**
+- 🌐 Netlify Mirror: **[https://igtnepal.netlify.app/](https://igtnepal.netlify.app/)**
 - 🦊 GitLab Mirror: **[https://gitlab.com/craftalaya/igtnepal](https://gitlab.com/craftalaya/igtnepal)**
+- 📦 NPM Library: **[nepal-lpg-cylinders on npmjs.com](https://www.npmjs.com/package/nepal-lpg-cylinders)**
 - 🛒 Buy Authentic Device: **[Buy IGT Gas Regulator in Nepal](https://igtnepal.com/buy-igt-regulator-nepal)**
 - 💰 Current Rates: **[IGT Gas Regulator Price in Nepal](https://igtnepal.com/igt-regulator-price-nepal)**
 
