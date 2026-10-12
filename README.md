@@ -120,6 +120,12 @@ For genuine product purchase, technical manuals, pricing, and warranty claims, u
 | **Housing Construction** | Non-porous Die-Cast Zinc ZP0410 | High-grade Die-Cast Zinc | Forged Brass / Zinc | Anti-corrosion coating |
 | **Internal Diaphragm** | Nitrile Rubber (NBR) | Nitrile Rubber (NBR) | Reinforced Double-layer NBR | Resistant to mercaptan |
 
+> [!WARNING]
+> ### ⚠️ Important Stove Compatibility Advisory (Domestic Low Pressure Only)
+> - **Standard Domestic Stoves (100% Compatible):** The domestic IGT A310i & A235i models are calibrated strictly for standard domestic low-pressure appliances (**28–30 mbar, flow capacity up to 1.5 kg/h**). They work seamlessly on all standard 2-burner and standard 3-burner tabletop stoves.
+> - **Modular Kitchen Built-In Hobs & High-Pressure Alert:** NOT recommended for certain heavy 3-burner or 4-burner **built-in glass hobs** in modern modular kitchens equipped with high-output triple-ring brass wok burners (>3.5 kW rating), or commercial *bhatti* burners. High simultaneous gas draw can exceed the sensitivity threshold of the European EN 16129 **Excess-Flow Auto Cut-Off** safety valve, causing the regulator to automatically lock shut.
+> - **Pre-Order Helpline:** If you use a modern modular kitchen hob, please verify your appliance pressure rating or call technical support at **+977 9740849659** before ordering.
+
 ---
 
 ## 🛠️ Step-by-Step Installation & Leak-Testing Guide
